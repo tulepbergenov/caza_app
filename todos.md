@@ -1,2 +1,20 @@
 - [ ] Add Not Found page
 - [ ] Add dark mode
+- [ ] Add splash screen
+- [ ] Add localization (multi-language support)
+- [ ] Add network connectivity check with no-internet banner
+- [ ] Add global error handling with error screens
+- [ ] Add crash reporting / logging
+- [ ] Add push notifications setup
+- [ ] Add deep linking support
+- [ ] Add secure local storage for tokens
+- [ ] Add app lifecycle handling (background/foreground)
+- [ ] Add loading/skeleton states for async screens
+- [ ] Add retry mechanism for failed network requests
+- [ ] Add runtime permissions handling (camera, storage, notifications)
+- [ ] Add app flavors (dev/staging/prod)
+- [ ] Add force update / version check screen
+- [ ] Add empty state screens
+- [ ] Add maintenance mode screen
+- [ ] Add app lock (PIN/biometric) screen
+- [ ] Add analytics tracking setup
