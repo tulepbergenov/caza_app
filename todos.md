@@ -1,0 +1,2 @@
+- [ ] Add Not Found page
+- [ ] Add dark mode

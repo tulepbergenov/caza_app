@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:caza_app/core/constants/app_icons.dart';
 import 'package:caza_app/core/constants/app_images.dart';
+import 'package:go_router/go_router.dart';
 
 class OnboardingPage extends StatelessWidget {
   const OnboardingPage({super.key});
@@ -68,7 +69,9 @@ class OnboardingPage extends StatelessWidget {
                 width: double.infinity,
                 height: 40,
                 child: ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    context.go("/sign-in");
+                  },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: const Color(0xFF4353FF),
                     foregroundColor: Colors.white,
