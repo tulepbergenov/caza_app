@@ -1,6 +1,7 @@
 - [ ] Add Not Found page
 - [ ] Add dark mode
 - [ ] Add splash screen
+- [ ] Add app icon
 - [ ] Add localization (multi-language support)
 - [ ] Add network connectivity check with no-internet banner
 - [ ] Add global error handling with error screens
