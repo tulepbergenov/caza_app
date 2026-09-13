@@ -1,4 +1,4 @@
-- [ ] Add Not Found page
+- [x] Add Not Found page
 - [ ] Add dark mode
 - [ ] Add splash screen
 - [ ] Add app icon
@@ -19,3 +19,4 @@
 - [ ] Add maintenance mode screen
 - [ ] Add app lock (PIN/biometric) screen
 - [ ] Add analytics tracking setup
+- [ ] Change namespace

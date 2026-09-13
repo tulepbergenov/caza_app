@@ -1,3 +1,4 @@
+import 'package:caza_app/core/router/app_routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:caza_app/core/constants/app_icons.dart';
@@ -67,7 +68,7 @@ class OnboardingPage extends StatelessWidget {
               const Spacer(),
               ElevatedButton(
                 onPressed: () {
-                  context.go("/sign-in");
+                  context.go(AppRoute.login.path);
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: const Color(0xFF4353FF),
